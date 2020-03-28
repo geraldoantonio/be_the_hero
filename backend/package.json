@@ -1,0 +1,22 @@
+{
+    "name": "be_the_hero",
+    "version": "1.0.0",
+    "description": "Projeto resultado da Semana Omnistack #11",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "keywords": [],
+    "author": "Geraldo Júnior",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/geraldoantonio/be_the_hero/issues"
+    },
+    "homepage": "https://github.com/geraldoantonio/be_the_hero#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
